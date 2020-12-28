@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+cypress/videos
+cypress/reports
+mochawesome-report
+screenshots/
+allure-report
+cypress/screenshots/
+cypress/screenshots
+mochawesome.json
+gopi

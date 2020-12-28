@@ -1,0 +1,37 @@
+{
+  "name": "cypress-practice-project",
+  "version": "1.0.0",
+  "description": "This is repo created for Cypress Automation Practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igopisrinivasan/cypressPractice.git"
+  },
+  "keywords": [],
+  "author": "Gopi Srinivasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igopisrinivasan/cypressPractice/issues"
+  },
+  "homepage": "https://github.com/igopisrinivasan/cypressPractice#readme",
+  "dependencies": {
+    "@shelex/cypress-allure-plugin": "^1.9.0"
+  },
+  "devDependencies": {
+    "cypress": "^6.2.0",
+    "cypress-cucumber-preprocessor": "^4.0.0",
+    "cypress-file-upload": "^4.1.1",
+    "cypress-multi-reporters": "^1.4.0",
+    "mocha": "^8.2.1",
+    "mochawesome": "^6.2.1",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.1.0",
+    "multiple-cucumber-html-reporter": "^1.18.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
