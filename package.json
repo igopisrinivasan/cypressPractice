@@ -18,14 +18,14 @@
   },
   "homepage": "https://github.com/igopisrinivasan/cypressPractice#readme",
   "dependencies": {
-    "@shelex/cypress-allure-plugin": "^1.9.0"
+    "@shelex/cypress-allure-plugin": "^2.3.1"
   },
   "devDependencies": {
-    "cypress": "^6.2.0",
-    "cypress-cucumber-preprocessor": "^4.0.0",
-    "cypress-file-upload": "^4.1.1",
+    "cypress": "^6.4.0",
+    "cypress-cucumber-preprocessor": "^4.0.1",
+    "cypress-file-upload": "^5.0.2",
     "cypress-multi-reporters": "^1.4.0",
-    "mocha": "^8.2.1",
+    "mocha": "^8.3.0",
     "mochawesome": "^6.2.1",
     "mochawesome-merge": "^4.2.0",
     "mochawesome-report-generator": "^5.1.0",
